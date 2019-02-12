@@ -1,11 +1,11 @@
 # Site settings
 author: Beverly Delarosa
-title: 
+title: Creative Meticulous Python
 header-img: img/home-bg.png
 email: beverlyfdelarosa@gmail.com
 copyright_name: Beverly Delarosa
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning to code teaches you to think.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  beverlyfdelarosa

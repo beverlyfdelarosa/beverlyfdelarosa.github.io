@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Chapter 2 - Right, Wrong, & Better!"
-date:       2019-03-25 14:52:14 +0000
+date:       2019-03-25 10:52:15 -0400
 permalink:  chapter_2_-_right_wrong_and_better
 ---
 
@@ -30,11 +30,12 @@ Having more than five, “lengthy-descripted” categories that are mutually exc
 </li></ol>
 
 <center>
-► ► ► **Example 1a. What are the statuses of shipments in each territory?** ◄ ◄ ◄
+<b>► ► ► Example 1a. ◄ ◄ ◄<br>
+What are the statuses of shipments in each territory?</b>
 
 <br><br>
 <table>
-  <caption>**Data Set of Shipment Statuses:**</caption>
+  <caption><b>Data Set of Shipment Statuses:</b></caption>
   <tr>
     <td></td>
     <th scope="col">North</th>
@@ -74,11 +75,12 @@ Assuming they tell you the percentage for each part “slice” would be useful.
 </li></ol>
 
 <center>
-► ► ► **Example 2a. We own an exotic animal sanctuary that can occupy up to 300 animals of eight<br>different species. Given that we are at full capacity and if we have to bulk buy food for 100 animals<br>at a time based on their diet, how different many combinations can we group together? **◄ ◄ ◄
+<b>► ► ► Example 2a. ◄ ◄ ◄<br>
+We own an exotic animal sanctuary that can occupy up to 300 animals<br>of eight different species. Given that we are at full capacity and if we<br>have to bulk buy food for 100 animals at a time based on their diet,<br>how many different combinations can we group together?</b>
 
 <br><br>
 <table>
-**Data Set of Exotic Animals:**
+  <caption><b>Data Set of Exotic Animals:</b></caption>
 	<tr>
 		<th>Animal</th>
 		<th>Tally</th>
@@ -135,12 +137,12 @@ In many real-world circumstances, data is presented as incomplete, more frequent
 </li></ol>
 
 <center>
-► ► ► **Example 3a. We just finished our November’s sales. Which quarter was our best performing? <br>
-How many orders were fulfilled this past year?** ◄ ◄ ◄
+<b>► ► ► Example 3a. ◄ ◄ ◄<br>
+We just finished November’s sales data. Which quarter was our best performing?<br> How many orders were fulfilled this past year?</b>
 
 <br>
 <table>
-  <caption>**Data Set of Quarter Performances:**</caption>
+  <caption><b>Data Set of Quarter Performances:</b></caption>
   <col>
   <col>
 	<col>
@@ -247,11 +249,12 @@ Furthermore, people want to seem smarter and fancier, so they try to make a 3-di
 </li></ol>
 
 <center>
-► ► ► **Example 4a. What is the typical time spent walking your dog every day for 10 weeks?**  ◄ ◄ ◄
+<b>► ► ► Example 4a.   ◄ ◄ ◄<br>
+What is the typical time spent walking your dog every day for 10 weeks?</b>
 
 <br>
 <table>
-  <caption>**Data Set of Dog Walks:**</caption>
+  <caption><b>Data Set of Dog Walks:</b></caption>
   <tr>
     <td></td>
     <th scope="col">Sunday</th>
@@ -368,7 +371,7 @@ Furthermore, people want to seem smarter and fancier, so they try to make a 3-di
 ![<blockquote class="imgur-embed-pub" lang="en" data-id="a/qzzP09Y"><a href="//imgur.com/qzzP09Y"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>](https://www.imgur.com/ozJc643.png)
 </center>
 
-#### Ultimately, pie charts are rarely a good fit for the problem they are intended to solve because they are poor at communicating the desired observations in the data. 
+#### <b>Ultimately, pie charts are rarely a good fit for the problem they are intended to solve because they are poor at communicating the desired observations in the data. </b>
 
 ### So then, what is an even better way than the pie chart?
 
@@ -379,11 +382,12 @@ But if you are adamant in showing your figure in relations to a whole, and your 
 </li></ol>
 
 <center>
-► ► ► **Example 1b. What are the statuses of shipments in each territory?** ◄ ◄ ◄
+<b>► ► ► Example 1b. ◄ ◄ ◄<br>
+What are the statuses of shipments in each territory?</b>
 
 <br><br>
 <table>
-  <caption>**Data Set of Shipment Statuses:**</caption>
+  <caption><b>Data Set of Shipment Statuses:</b></caption>
   <tr>
     <td></td>
     <th scope="col">North</th>
@@ -423,11 +427,12 @@ Bar charts are cleaner than waffle charts because you can compare each category 
 </li></ol>
 
 <center>
-► ► ► **Example 2a. We own an exotic animal sanctuary that can occupy up to 300 animals of eight<br>different species. Given that we are at full capacity and if we have to bulk buy food for 100 animals<br>at a time based on their diet, how different many combinations can we group together? **◄ ◄ ◄
+<b>► ► ► Example 2b. ◄ ◄ ◄<br>
+We own an exotic animal sanctuary that can occupy up to 300 animals<br>of eight different species. Given that we are at full capacity and if we<br>have to bulk buy food for 100 animals at a time based on their diet,<br>how many different combinations can we group together?</b>
 
 <br><br>
 <table>
-**Data Set of Exotic Animals:**
+  <caption><b>Data Set of Exotic Animals:</b></caption>
 	<tr>
 		<th>Animal</th>
 		<th>Tally</th>
@@ -484,11 +489,12 @@ Line charts are great for visualizing change over time. Because the data is conn
 </li></ol>
 
 <center>
-► ► ► **Example 3b. We just finished November’s sales data. Which quarter was our best performing? <br>How many orders fulfilled this past year?** ◄ ◄ ◄
+<b>► ► ► Example 3b. ◄ ◄ ◄<br>
+We just finished November’s sales data. Which quarter was our best performing?<br> How many orders were fulfilled this past year?</b>
 
 <br>
 <table>
-  <caption>**Data Set of Quarter Performances:**</caption>
+  <caption><b>Data Set of Quarter Performances:</b></caption>
   <col>
   <col>
 	<col>
@@ -593,9 +599,10 @@ Line charts are great for visualizing change over time. Because the data is conn
 Box (and whisker) plots go little further in showing us the descriptive statistics of the data by grouping the ordered numerical data through their quartiles. We can distinguish the degree of dispersion (i.e., the spread distribution). In addition to the points themselves, the range is made known (via the top/maximum and bottom/minimum horizontal line joined by the vertical “whiskers”), often excluding any outliers that can ultimately skew our data. The interquartile range is the middle 50% of our data (via the boxes to show the 1st (and 2nd) and 3rd quartiles). The 2nd quartile (i.e., the median) is useful for data sets where you want to get a sense of a "representative" measure of centrality since the mean would be skewed by outliers.
 </li></ol>
 
-
-<center>► ► ► **Example 4a. What is the typical time spent walking your dog every day for 10 weeks?**  ◄ ◄ ◄<br><table>
-  <caption>**Data Set of Dog Walks:**</caption>
+<center>
+<b>► ► ► Example 4b. ◄ ◄ ◄<br>
+What is the typical time spent walking your dog every day for 10 weeks?</b><br><table>
+  <caption><b>Data Set of Dog Walks:</b></caption>
   <tr>
     <td></td>
     <th scope="col">Sunday</th>

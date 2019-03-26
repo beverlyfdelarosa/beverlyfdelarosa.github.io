@@ -33,7 +33,6 @@ Having more than five, “lengthy-descripted” categories that are mutually exc
 <b>► ► ► Example 1a. ◄ ◄ ◄<br>
 What are the statuses of shipments in each territory?</b>
 
-<br>
 <table>
   <caption><b>Data Set of Shipment Statuses:</b></caption>
   <tr>
@@ -65,11 +64,11 @@ What are the statuses of shipments in each territory?</b>
     <td>26</td>
   </tr>
 </table>
-
 ![<blockquote class="imgur-embed-pub" lang="en" data-id="a/qzzP09Y"><a href="//imgur.com/qzzP09Y"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>](https://www.imgur.com/2BJ0dvm.png) 
 </center>
 
-<br><ol><li value="2">
+<br>
+<ol><li value="2">
 Assuming they tell you the percentage for each part “slice” would be useful. But sometimes they do not and that can be a lot of guesswork into measuring the angle, especially if they are seemingly similar. Furthermore, after given actual/approximation of the angle percentage, more operative calculation may need to be done to get the specific dataset info in the set and/or subset. That extra work on your part can easily be avoided.
 </li></ol>
 
@@ -77,7 +76,6 @@ Assuming they tell you the percentage for each part “slice” would be useful.
 <b>► ► ► Example 2a. ◄ ◄ ◄<br>
 We own an exotic animal sanctuary that can occupy up to 300 animals<br>of eight different species. Given that we are at full capacity and if we<br>have to bulk buy food for 100 animals at a time based on their diet,<br>how many different combinations can we group together?</b>
 
-<br>
 <table>
   <caption><b>Data Set of Exotic Animals:</b></caption>
 	<tr>
@@ -126,11 +124,11 @@ We own an exotic animal sanctuary that can occupy up to 300 animals<br>of eight 
 		<td>Herbivore</td>
 	</tr>
 </table>
-
 ![<blockquote class="imgur-embed-pub" lang="en" data-id="a/qzzP09Y"><a href="//imgur.com/qzzP09Y"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>](https://www.imgur.com/DlAg4Uw.png)
 </center>
 
-<br><ol><li value="3">
+<br>
+<ol><li value="3">
 In many real-world circumstances, data is presented as incomplete, more frequently so the larger the set. Well, if the parts do not sum up to the meaningful whole, a pie chart cannot represent the data, period. The total of a subsample and the comparison of each element value to the artificial whole are not meaningful in the least.
 </li></ol>
 
@@ -138,7 +136,6 @@ In many real-world circumstances, data is presented as incomplete, more frequent
 <b>► ► ► Example 3a. ◄ ◄ ◄<br>
 We just finished November’s sales data. Which quarter was our best<br>performing? How many orders were fulfilled this past year?</b>
 
-<br>
 <table>
   <caption><b>Data Set of Quarter Performances:</b></caption>
   <col>
@@ -237,11 +234,11 @@ We just finished November’s sales data. Which quarter was our best<br>performi
 		</tr>
   </tbody>
 </table>
-
 ![<blockquote class="imgur-embed-pub" lang="en" data-id="a/qzzP09Y"><a href="//imgur.com/qzzP09Y"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>](https://www.imgur.com/ACG1h2S.png)
 </center>
 
-<br><ol><li value="4">
+<br>
+<ol><li value="4">
 Furthermore, people want to seem smarter and fancier, so they try to make a 3-dimensioinal pie chart version with differing shades/opacity/design fill. Aesthetically, there is no logical sense nor linear gradient scale to do these, and only adds to the distraction and enhances the complexity of its clutter. This happened in our 2nd example above when we did not take into account color blindness. Also to consider, if you have to print your chart(s), you will not always have access to a color printer and the grayscale may not be easily distinguishable.
 </li></ol>
 
@@ -249,7 +246,6 @@ Furthermore, people want to seem smarter and fancier, so they try to make a 3-di
 <b>► ► ► Example 4a. ◄ ◄ ◄<br>
 What is the typical time spent walking your dog every day for 10 weeks?</b>
 
-<br>
 <table>
   <caption><b>Data Set of Dog Walks:</b></caption>
   <tr>
@@ -363,11 +359,10 @@ What is the typical time spent walking your dog every day for 10 weeks?</b>
 		<td>16</td>
   </tr>
 </table>
-
 ![<blockquote class="imgur-embed-pub" lang="en" data-id="a/qzzP09Y"><a href="//imgur.com/qzzP09Y"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>](https://www.imgur.com/ozJc643.png)
 </center>
 
-<br><b>Ultimately, pie charts are rarely a good fit for the problem they are intended to solve because they are poor at communicating the desired observations in the data. </b>
+<br><b>Ultimately, pie charts are rarely a good fit for the problem they are intended to solve and analyze because they are poor at communicating the desired observations in the data. </b>
 
 ### So then, what is an even better way than the pie chart?
 
@@ -381,7 +376,6 @@ But if you are adamant in showing your figure in relations to a whole, and your 
 <b>► ► ► Example 1b. ◄ ◄ ◄<br>
 What are the statuses of shipments in each territory?</b>
 
-<br>
 <table>
   <caption><b>Data Set of Shipment Statuses:</b></caption>
   <tr>
@@ -413,11 +407,11 @@ What are the statuses of shipments in each territory?</b>
     <td>26</td>
   </tr>
 </table>
-
 ![<blockquote class="imgur-embed-pub" lang="en" data-id="a/qzzP09Y"><a href="//imgur.com/qzzP09Y"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>](https://www.imgur.com/NbSLBNx.png)
 </center>
 
-<br><ol><li value="2">
+<br>
+<ol><li value="2">
 Bar charts are cleaner than waffle charts because you can compare each category to every other category efficiently with raw values rather than percentages. The exact numbers give us the ability to be, in general, more credible for anyone to look at the report and have confidence that the source is reliable. If you have a sample population of 100 vs 100,000, which data set would you more likely want sourced?
 </li></ol>
 
@@ -425,7 +419,6 @@ Bar charts are cleaner than waffle charts because you can compare each category 
 <b>► ► ► Example 2b. ◄ ◄ ◄<br>
 We own an exotic animal sanctuary that can occupy up to 300 animals<br>of eight different species. Given that we are at full capacity and if we<br>have to bulk buy food for 100 animals at a time based on their diet,<br>how many different combinations can we group together?</b>
 
-<br>
 <table>
   <caption><b>Data Set of Exotic Animals:</b></caption>
 	<tr>
@@ -474,11 +467,11 @@ We own an exotic animal sanctuary that can occupy up to 300 animals<br>of eight 
 		<td>Herbivore</td>
 	</tr>
 </table>
-
 ![<blockquote class="imgur-embed-pub" lang="en" data-id="a/qzzP09Y"><a href="//imgur.com/qzzP09Y"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>](https://www.imgur.com/faf5MMH.png)
 </center>
  
-<br><ol><li value="3">
+<br>
+<ol><li value="3">
 Line charts are great for visualizing change over time. Because the data is connected by a continuous “slope” line, we can see how a value develops. The relationship of time between each category should be consistently periodical and not random. Bonus points if you can ratio multiple y-axes to further analyze why these values may be trending the way they are.
 </li></ol>
 
@@ -486,7 +479,6 @@ Line charts are great for visualizing change over time. Because the data is conn
 <b>► ► ► Example 3b. ◄ ◄ ◄<br>
 We just finished November’s sales data. Which quarter was our best<br>performing? How many orders were fulfilled this past year?</b>
 
-<br>
 <table>
   <caption><b>Data Set of Quarter Performances:</b></caption>
   <col>
@@ -585,11 +577,11 @@ We just finished November’s sales data. Which quarter was our best<br>performi
 		</tr>
   </tbody>
 </table>
-
 ![<blockquote class="imgur-embed-pub" lang="en" data-id="a/qzzP09Y"><a href="//imgur.com/qzzP09Y"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>](https://www.imgur.com/oZp5fir.png)
 </center>
  
-<br><ol><li value="4">
+<br>
+<ol><li value="4">
 Box (and whisker) plots go little further in showing us the descriptive statistics of the data by grouping the ordered numerical data through their quartiles. We can distinguish the degree of dispersion (i.e., the spread distribution). In addition to the points themselves, the range is made known (via the top/maximum and bottom/minimum horizontal line joined by the vertical “whiskers”), often excluding any outliers that can ultimately skew our data. The interquartile range is the middle 50% of our data (via the boxes to show the 1st (and 2nd) and 3rd quartiles). The 2nd quartile (i.e., the median) is useful for data sets where you want to get a sense of a "representative" measure of centrality since the mean would be skewed by outliers.
 </li></ol>
 
@@ -597,7 +589,6 @@ Box (and whisker) plots go little further in showing us the descriptive statisti
 <b>► ► ► Example 4b. ◄ ◄ ◄<br>
 What is the typical time spent walking your dog every day for 10 weeks?</b>
 
-<br>
 <table>
   <caption><b>Data Set of Dog Walks:</b></caption>
   <tr>
@@ -711,7 +702,5 @@ What is the typical time spent walking your dog every day for 10 weeks?</b>
 		<td>16</td>
   </tr>
 </table>
-
 ![<blockquote class="imgur-embed-pub" lang="en" data-id="a/qzzP09Y"><a href="//imgur.com/qzzP09Y"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>](https://www.imgur.com/b3vKyKu.png)
 </center>
-</ol>
